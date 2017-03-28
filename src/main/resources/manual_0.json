@@ -1,1 +1,148 @@
-{"body": "\u00a0Thank you for choosing Ford. \u00a0We recommend that you take some time to get to know your vehicle by reading this manual. \u00a0The more that you know about your vehicle, the greater the safety and pleasure you will get from driving it.<br><br>\u00a0This manual may qualify the location of a component as left-hand side or right-hand side. \u00a0The side is determined when facing forward in the seat.<br><br>", "contentHtml": "<p>&nbsp;Thank you for choosing Ford. &nbsp;We recommend that you take some time to get to know your vehicle by reading this manual. &nbsp;The more that you know about your vehicle, the greater the safety and pleasure you will get from driving it.</p><p>&nbsp;This manual may qualify the location of a component as left-hand side or right-hand side. &nbsp;The side is determined when facing forward in the seat.</p>", "sourceUrl": "http://www.fordservicecontent.com/Ford_Content/vdirsnet/OwnerManual/Home/Content?bookCode=O28450&languageCode=en&marketCode=US&viewTech=IE&chapterTitleSelected=G1508561&subTitleSelected=G1508566&topicHRef=G1467680&div=f&vFilteringEnabled=True", "id": "1", "title": "About This Manual"}
+{
+	"body": " Thank you for choosing Ford.  We recommend that you take some time to get to know your vehicle by reading this manual.  The more that you know about your vehicle, the greater the safety and pleasure you will get from driving it.<br><br> This manual may qualify the location of a component as left-hand side or right-hand side.  The side is determined when facing forward in the seat.<br><br>",
+	"contentHtml": "<p>&nbsp;Thank you for choosing Ford. &nbsp;We recommend that you take some time to get to know your vehicle by reading this manual. &nbsp;The more that you know about your vehicle, the greater the safety and pleasure you will get from driving it.</p><p>&nbsp;This manual may qualify the location of a component as left-hand side or right-hand side. &nbsp;The side is determined when facing forward in the seat.</p>",
+	"sourceUrl": "http://www.fordservicecontent.com/Ford_Content/vdirsnet/OwnerManual/Home/Content?bookCode=O28450&languageCode=en&marketCode=US&viewTech=IE&chapterTitleSelected=G1508561&subTitleSelected=G1508566&topicHRef=G1467680&div=f&vFilteringEnabled=True",
+	"id": "1",
+	"title": "About This Manual",
+	"searchTitle": "About This Manual",
+	"searchText": " Thank you for choosing Ford.  We recommend that you take some time to get to know your vehicle by reading this manual.  The more that you know about your vehicle, the greater the safety and pleasure you will get from driving it.<br><br> This manual may qualify the location of a component as left-hand side or right-hand side.  The side is determined when facing forward in the seat.<br><br>",
+	"enriched_body": {
+		"status": "OK",
+		"language": "english",
+		"concepts": [
+			{
+				"text": "Driving",
+				"relevance": 0.847692,
+				"dbpedia": "http://dbpedia.org/resource/Driving",
+				"freebase": "http://rdf.freebase.com/ns/m.0kw6d"
+			},
+			{
+				"text": "Manual transmission",
+				"relevance": 0.844448,
+				"dbpedia": "http://dbpedia.org/resource/Manual_transmission",
+				"freebase": "http://rdf.freebase.com/ns/m.02xmn0",
+				"opencyc": "http://sw.opencyc.org/concept/Mx4rvVicf5wpEbGdrcN5Y29ycA",
+				"yago": "http://yago-knowledge.org/resource/Manual_transmission"
+			},
+			{
+				"text": "Automobile",
+				"relevance": 0.838607,
+				"dbpedia": "http://dbpedia.org/resource/Automobile",
+				"freebase": "http://rdf.freebase.com/ns/m.0k4j",
+				"opencyc": "http://sw.opencyc.org/concept/Mx4rvViVwZwpEbGdrcN5Y29ycA"
+			}
+		],
+		"entities": [
+			{
+				"type": "Company",
+				"relevance": 0.827959,
+				"sentiment": {
+					"type": "positive",
+					"score": 0.84494,
+					"mixed": false
+				},
+				"count": 1,
+				"text": "Ford"
+			}
+		],
+		"taxonomy": [
+			{
+				"label": "/automotive and vehicles/vehicle brands/ford",
+				"score": 0.57747,
+				"confident": false
+			},
+			{
+				"label": "/health and fitness/disease/cancer",
+				"score": 0.577035,
+				"confident": false
+			},
+			{
+				"label": "/hobbies and interests/reading",
+				"score": 0.523192,
+				"confident": false
+			}
+		],
+		"keywords": [
+			{
+				"relevance": 0.987288,
+				"sentiment": {
+					"score": 0.555087,
+					"type": "positive",
+					"mixed": false
+				},
+				"text": "br"
+			},
+			{
+				"relevance": 0.729257,
+				"sentiment": {
+					"score": 0.901801,
+					"type": "positive",
+					"mixed": false
+				},
+				"text": "vehicle"
+			},
+			{
+				"relevance": 0.629525,
+				"sentiment": {
+					"score": 0.84494,
+					"type": "positive",
+					"mixed": false
+				},
+				"text": "Ford"
+			},
+			{
+				"relevance": 0.592375,
+				"sentiment": {
+					"score": 0.555087,
+					"type": "positive",
+					"mixed": false
+				},
+				"text": "pleasure"
+			},
+			{
+				"relevance": 0.581087,
+				"sentiment": {
+					"score": 0.901801,
+					"type": "positive",
+					"mixed": false
+				},
+				"text": "time"
+			},
+			{
+				"relevance": 0.56312,
+				"sentiment": {
+					"type": "neutral",
+					"mixed": false
+				},
+				"text": "seat."
+			},
+			{
+				"relevance": 0.562468,
+				"sentiment": {
+					"score": 0.555087,
+					"type": "positive",
+					"mixed": false
+				},
+				"text": "safety"
+			},
+			{
+				"relevance": 0.558324,
+				"sentiment": {
+					"score": 0.555087,
+					"type": "positive",
+					"mixed": false
+				},
+				"text": "location"
+			},
+			{
+				"relevance": 0.557702,
+				"sentiment": {
+					"score": 0.555087,
+					"type": "positive",
+					"mixed": false
+				},
+				"text": "component"
+			}
+		]
+	}
+}
